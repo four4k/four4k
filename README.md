@@ -6,7 +6,7 @@
 
 
 
-<p align="center"> I'm currently studying JavaScript, CSS, and HTML, with plans to pursue a degree in Software Engineering in the future. I’m committed to expanding my knowledge and tackling new challenges in the tech field. Passionate about learning and turning ideas into innovative solutions.
+<p align="center"> I'm currently studying JavaScript, CSS, HTML and MySQL, with plans to pursue a degree in Software Engineering in the future. I’m committed to expanding my knowledge and tackling new challenges in the tech field. Passionate about learning and turning ideas into innovative solutions.
 
 #
 
